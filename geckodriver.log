@@ -1,0 +1,108 @@
+1667785248658	geckodriver	INFO	Listening on 127.0.0.1:55894
+1667785251680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileXfT7Ci"
+1667785251877	Marionette	INFO	Marionette enabled
+1667785251881	Marionette	INFO	Listening on port 55904
+Read port: 55904
+WebDriver BiDi listening on ws://127.0.0.1:55895
+1667785251984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileXfT7Ci\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55895/devtools/browser/90c866f8-1ba6-49c3-afec-58bf0216223b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.tutorialspoint.com/static/js/localization.js?v=3.0, line 75: TypeError: undefined currency in NumberFormat() with currency style
+1667785258735	Marionette	INFO	Stopped listening on port 55904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667785640054	geckodriver	INFO	Listening on 127.0.0.1:56069
+1667785643094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-oh2je6x7.default-release" "C:\\Users\\Cas\\AppData\\Local\\Mozilla\\Firefox\\Profiles" "--remote-debugging-port" "56070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileJEy5sR"
+1667785643283	Marionette	INFO	Marionette enabled
+1667785643286	Marionette	INFO	Listening on port 56079
+Read port: 56079
+WebDriver BiDi listening on ws://127.0.0.1:56070
+1667785643376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileJEy5sR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56070/devtools/browser/c781bfec-39b5-4a38-8aaa-71ee582528f3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.tutorialspoint.com/static/js/localization.js?v=3.0, line 75: TypeError: undefined currency in NumberFormat() with currency style
+1667785650566	Marionette	INFO	Stopped listening on port 56079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667785679977	geckodriver	INFO	Listening on 127.0.0.1:56183
+1667785683024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "C:\\Users\\Cas\\AppData\\Local\\Mozilla\\Firefox\\Profiles" "-oh2je6x7.default-release" "--remote-debugging-port" "56184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileycg7zw"
+1667785683215	Marionette	INFO	Marionette enabled
+1667785683218	Marionette	INFO	Listening on port 56193
+Read port: 56193
+WebDriver BiDi listening on ws://127.0.0.1:56184
+1667785683314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileycg7zw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56184/devtools/browser/274081b9-3ac8-4ed2-b446-e319d88606c0
+JavaScript error: https://www.tutorialspoint.com/static/js/localization.js?v=3.0, line 75: TypeError: undefined currency in NumberFormat() with currency style
+1667785687796	Marionette	INFO	Stopped listening on port 56193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667785691915	geckodriver	INFO	Listening on 127.0.0.1:56270
+1667785694964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "C:\\Users\\Cas\\AppData\\Local\\Mozilla\\Firefox\\Profiles" "-oh2je6x7.default-release" "--remote-debugging-port" "56271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileRzO5yU"
+1667785695154	Marionette	INFO	Marionette enabled
+1667785695157	Marionette	INFO	Listening on port 56280
+Read port: 56280
+WebDriver BiDi listening on ws://127.0.0.1:56271
+1667785695251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileRzO5yU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56271/devtools/browser/5f5300e1-2aa4-44ed-ad59-331e8e243245
+JavaScript error: https://www.tutorialspoint.com/static/js/localization.js?v=3.0, line 75: TypeError: undefined currency in NumberFormat() with currency style
+1667785698883	Marionette	INFO	Stopped listening on port 56280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667785752964	geckodriver	INFO	Listening on 127.0.0.1:56350
+1667785756006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "C:\\Users\\Cas\\AppData\\Local\\Mozilla\\Firefox\\Profiles" "-oh2je6x7.default-release" "--remote-debugging-port" "56351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofilei9GqMm"
+1667785756195	Marionette	INFO	Marionette enabled
+1667785756198	Marionette	INFO	Listening on port 56360
+Read port: 56360
+WebDriver BiDi listening on ws://127.0.0.1:56351
+1667785756293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofilei9GqMm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56351/devtools/browser/c77f61f7-b2d4-49fe-a60b-49caa7cd54ff
+JavaScript error: https://www.tutorialspoint.com/static/js/localization.js?v=3.0, line 75: TypeError: undefined currency in NumberFormat() with currency style
+1667785760190	Marionette	INFO	Stopped listening on port 56360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667786067292	geckodriver	INFO	Listening on 127.0.0.1:56465
+1667786071461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileDxtWlX"
+1667786071652	Marionette	INFO	Marionette enabled
+1667786071655	Marionette	INFO	Listening on port 56475
+Read port: 56475
+WebDriver BiDi listening on ws://127.0.0.1:56466
+1667786071705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56466/devtools/browser/af699998-65c9-48cf-af4f-f1d2812b8a63
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.tutorialspoint.com/static/js/localization.js?v=3.0, line 75: TypeError: undefined currency in NumberFormat() with currency style
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/yC/l/pt_BR/cdEpUf-uGdg.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/yC/l/pt_BR/cdEpUf-uGdg.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/yC/l/pt_BR/cdEpUf-uGdg.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/yC/l/pt_BR/cdEpUf-uGdg.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i72i4/y-/l/makehaste_jhash/JbxMWhJOple.js?_nc_x=0W46ULMCMt3, line 151: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ixrq4/yy/l/pt_BR/nTECpL5tH2A.js?_nc_x=0W46ULMCMt3, line 223: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMh4/yn/l/pt_BR/wrd4BRdgI7q.js?_nc_x=0W46ULMCMt3, line 92: unreachable code after return statement
+1667786217370	Marionette	INFO	Stopped listening on port 56475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667786219643	geckodriver	INFO	Listening on 127.0.0.1:56556
+1667786223787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cas\\AppData\\Local\\Temp\\rust_mozprofileZ7Qj2J"
+1667786223979	Marionette	INFO	Marionette enabled
+1667786223982	Marionette	INFO	Listening on port 56566
+Read port: 56566
+WebDriver BiDi listening on ws://127.0.0.1:56557
+1667786224032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56557/devtools/browser/ce58e4d2-2d46-4a63-a6d3-93f008a9926f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/yC/l/pt_BR/cdEpUf-uGdg.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/yC/l/pt_BR/cdEpUf-uGdg.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/yC/l/pt_BR/cdEpUf-uGdg.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667786286415	Marionette	INFO	Stopped listening on port 56566
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-sync/engines/extension-storage.js, line 54: TypeError: lazy.Svc.Prefs is undefined
